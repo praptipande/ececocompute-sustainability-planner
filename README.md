@@ -1,9 +1,10 @@
+🌱 AI Compute Sustainability Planner 
+
 # EcoCompute
 
 EcoCompute is a React and Express application for comparing AI/ML workload
 configurations using planning estimates for energy, carbon, water, cost, and a
-provisional sustainability score. It is a college demonstration project, not a
-live measurement or environmental certification system.
+provisional sustainability score. 
 
 ## Architecture
 
